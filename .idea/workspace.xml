@@ -7,14 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb00a661-26cb-4d12-9453-f6694dc8f763" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/classes/TestConn.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestConn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/damonzzz/helloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/damonzzz/helloServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestConn.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,6 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577169542257</updated>
       <workItem from="1577169545656" duration="6460000" />
+      <workItem from="1577176877901" duration="1906000" />
     </task>
     <servers />
   </component>
@@ -201,7 +198,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

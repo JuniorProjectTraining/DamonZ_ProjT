@@ -7,12 +7,5 @@
     <welcome-file-list>
         <welcome-file>test.html</welcome-file>
     </welcome-file-list>
-    <servlet>
-        <servlet-name>abc</servlet-name>
-        <servlet-class>cn.damonzzz.helloServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>abc</servlet-name>
-        <url-pattern>/abc</url-pattern>
-    </servlet-mapping>
+
 </web-app>
