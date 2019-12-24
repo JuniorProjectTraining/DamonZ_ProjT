@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb00a661-26cb-4d12-9453-f6694dc8f763" name="Default Changelist" comment="" />
+    <list default="true" id="eb00a661-26cb-4d12-9453-f6694dc8f763" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/classes/TestConn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestConn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestConn.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -38,23 +49,31 @@
     </option>
   </component>
   <component name="ProjectId" id="1VPzVdryhsXAxNWzE3SiJmAjGCG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/.IntelliJIdea2019.3/config/jdbc-drivers/MySQL Connector/J 8/8.0.15/mysql-connector-java-8.0.15.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/cn/damonzzz" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27471265" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\java\cn\damonzzz" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main" />
+      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\java" />
+      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\Servlet" />
       <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\web" />
     </key>
   </component>
@@ -70,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestConn">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.391">
     <configuration name="TestConn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestConn" />
       <module name="ProjTrain" />
@@ -170,11 +189,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577169542257</updated>
-      <workItem from="1577169545656" duration="1539000" />
+      <workItem from="1577169545656" duration="6460000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
