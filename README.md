@@ -22,3 +22,10 @@
 ### new features
 + 配置了tomcat
 + 配置了web.xml
+
+## VER 1.0 15:29/25/12/19
+### notes:
++ 解决tomcat 9.0以上版本在idea中的乱码问题
+*解决方法*：tomcat/conf/logging.properties中
+java.util.logging.ConsoleHandler.encoding = UTF-8修改为GBK
+
