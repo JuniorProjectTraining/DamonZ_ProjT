@@ -2,64 +2,11 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="ProjTrain:Web exploded" />
+      <artifact name="ProjT:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb00a661-26cb-4d12-9453-f6694dc8f763" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/damonzzz/JDBC/ConfManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/damonzzz/JDBC/JDBCutil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/damonzzz/JDBC/mysql_conn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/damonzzz/Servlets/LogInServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/damonzzz/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/damonzzz/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/trans/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/trans/ProcessServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/trans/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static.bootstrap-3.3.7-dist/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/HTMLs/bootstraptesst.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/JSPs/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/JSPs/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/JSPs/useRegister.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/image/eva12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/image/eva13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/web/image/photo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/classes/cn/damonzzz/TestConn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/classes/cn/damonzzz/helloServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ProjTrain_Web_exploded/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/damonzzz/TestConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/damonzzz/JDBC/TestConn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/damonzzz/helloServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/web/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/web/HTMLs/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/damonzzz/TestConn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/damonzzz/helloServlet.class" beforeDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="1e431e96-43e2-40e9-ba10-87b27d228946" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,14 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="Jsp File" />
         <option value="HTML File" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -91,73 +33,45 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1VPzVdryhsXAxNWzE3SiJmAjGCG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectId" id="1VQjzC8rAo3x95No38uFCkWxQx8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/JDBC" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.27471265" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\web\HTMLs" />
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\web\image" />
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\web\JSPs" />
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src" />
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\java\cn\damonzzz" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="trans" />
-      <recent name="cn.damonzzz.JDBC" />
-      <recent name="cn.damonzzz.Servlets" />
-      <recent name="" />
+      <recent name="E:\JavaFiles\ProjT\src\main\resources" />
+      <recent name="E:\JavaFiles\ProjT\src\main\web\WEB-INF\classes" />
+      <recent name="E:\JavaFiles\ProjT\src\main\web\Classes" />
+      <recent name="E:\JavaFiles\ProjT\src" />
+      <recent name="E:\JavaFiles\ProjT\src\main\web\WEB-INF" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\resources" />
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\web" />
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\java\trans" />
-      <recent name="C:\Users\16204\IdeaProjects\ProjTrain\src\main\java\cn\damonzzz" />
+      <recent name="E:\JavaFiles\ProjT\src\main\java\JDBC" />
+      <recent name="E:\JavaFiles\ProjT\src" />
+      <recent name="E:\JavaFiles\ProjT\src\main\web" />
+      <recent name="E:\JavaFiles\ProjT\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.30">
-    <configuration name="TestConn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestConn" />
-      <module name="ProjTrain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestConn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.damonzzz.JDBC.TestConn2" />
-      <module name="ProjTrain" />
+    <configuration name="TestConn (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.TestConn" />
+      <module name="ProjT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.damonzzz.JDBC.*" />
+          <option name="PATTERN" value="JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,24 +80,18 @@
       </method>
     </configuration>
     <configuration name="TestConn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.damonzzz.JDBC.TestConn" />
-      <module name="ProjTrain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.damonzzz.JDBC.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="test.TestConn" />
+      <module name="ProjT" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="mysql_conn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.damonzzz.JDBC.mysql_conn" />
-      <module name="ProjTrain" />
+      <option name="MAIN_CLASS_NAME" value="JDBC.mysql_conn" />
+      <module name="ProjT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.damonzzz.JDBC.*" />
+          <option name="PATTERN" value="JDBC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,18 +99,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
-      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="ProjTrain:Web exploded">
+        <artifact name="ProjT:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/ProjTrain_Web_exploded" />
+            <option name="CONTEXT_PATH" value="/ProjT_war_exploded" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ProjTrain_2" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ProjT" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -210,7 +117,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="11496" />
+        <option name="DEBUG_PORT" value="3037" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -260,120 +167,146 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="ProjTrain:Web exploded" />
+          <artifact name="ProjT:war exploded" />
         </option>
-      </method>
-    </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="_ProjTrain" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="3341" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.TestConn" />
-      <item itemvalue="Application.TestConn2" />
-      <item itemvalue="Application.mysql_conn" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.30" />
+      <item itemvalue="Application.mysql_conn" />
+      <item itemvalue="Application.TestConn (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.mysql_conn" />
-        <item itemvalue="Application.TestConn2" />
+        <item itemvalue="Application.TestConn (1)" />
         <item itemvalue="Application.TestConn" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13599126" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eb00a661-26cb-4d12-9453-f6694dc8f763" name="Default Changelist" comment="" />
-      <created>1577169542257</created>
+      <changelist id="1e431e96-43e2-40e9-ba10-87b27d228946" name="Default Changelist" comment="" />
+      <created>1577192472761</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1577169542257</updated>
-      <workItem from="1577169545656" duration="6460000" />
-      <workItem from="1577176877901" duration="1906000" />
-      <workItem from="1577241753627" duration="5028000" />
-      <workItem from="1577254940312" duration="3576000" />
-      <workItem from="1577258631566" duration="7827000" />
+      <updated>1577192472761</updated>
+      <workItem from="1577192475235" duration="2953000" />
+      <workItem from="1577274251916" duration="629000" />
+      <workItem from="1577278772469" duration="3729000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="WindowStateProjectService">
+    <state x="740" y="325" key="#BuildArtifactsBeforeRunChooser" timestamp="1577279262430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="325" key="#BuildArtifactsBeforeRunChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577279262430" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1577279125345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577279125345" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577279271021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577279271021" />
+    <state x="802" y="494" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1577192960325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="802" y="494" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1920.1040@0.0.1920.1040" timestamp="1577192960325" />
+    <state x="770" y="494" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1577192937101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="494" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577192937101" />
+    <state x="711" y="342" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1577279721051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="342" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577279721051" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1577274278804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577274278804" />
+    <state width="1877" height="435" key="GridCell.Tab.0.bottom" timestamp="1577283611648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611648" />
+    <state width="1877" height="435" key="GridCell.Tab.0.center" timestamp="1577283611647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611647" />
+    <state width="1877" height="435" key="GridCell.Tab.0.left" timestamp="1577283611647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611647" />
+    <state width="1877" height="435" key="GridCell.Tab.0.right" timestamp="1577283611647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="435" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611647" />
+    <state width="1596" height="342" key="GridCell.Tab.1.bottom" timestamp="1577283611645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1596" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611645" />
+    <state width="1596" height="342" key="GridCell.Tab.1.center" timestamp="1577283611645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1596" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611645" />
+    <state width="1596" height="342" key="GridCell.Tab.1.left" timestamp="1577283611645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1596" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611645" />
+    <state width="1596" height="342" key="GridCell.Tab.1.right" timestamp="1577283611645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1596" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611645" />
+    <state width="1596" height="342" key="GridCell.Tab.2.bottom" timestamp="1577283611646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1596" height="342" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611646" />
+    <state width="1596" height="342" key="GridCell.Tab.2.center" timestamp="1577283611646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1596" height="342" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611646" />
+    <state width="1596" height="342" key="GridCell.Tab.2.left" timestamp="1577283611645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1596" height="342" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611645" />
+    <state width="1596" height="342" key="GridCell.Tab.2.right" timestamp="1577283611646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1596" height="342" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577283611646" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1577279724098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577279724098" />
   </component>
 </project>

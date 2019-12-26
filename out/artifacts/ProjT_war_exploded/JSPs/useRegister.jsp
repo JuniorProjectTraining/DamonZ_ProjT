@@ -134,7 +134,7 @@
                 <ul id="content">
                     <li style="display: block">
                         <div>
-                            <form name="userLoginForm" method="post" action="login">
+                            <form name="userLoginForm" method="post" action="/login">
                                 <table style="height: 39vh;width:100%;border-collapse: separate;border-spacing: 0 6vh"
                                        border="0">
                                     <tr style="height: 16vh">
@@ -230,7 +230,7 @@
         </div>
     </div>
     <div class="content_footer">
-        <a href="http://localhost:8080/ServeletDemo_war_exploded2/main.jsp">test</a>
+        <a href="">test</a>
     </div>
 </div>
 
